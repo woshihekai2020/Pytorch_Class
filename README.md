@@ -1,5 +1,5 @@
 # Pytorch_Class
-Pytorch新手入门
+Pytorch新手入门——基于pytorch123的入门笔记
 * class1
     - 依赖包：numpy，pytorch
     - 常见的tensor操作
